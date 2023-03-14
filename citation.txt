@@ -1,0 +1,9 @@
+@inproceedings{REPO-337,
+    author = "Zhou, Haoyi and Zhang, Shanghang and Peng, Jieqi and Zhang, Shuai and Li, Jianxin and Xiong, Hui and Zhang, Wancai",
+    booktitle = "The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021, Virtual Conference",
+    number = "12",
+    pages = "11106--11115",
+    title = "{Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting}",
+    volume = "35",
+    year = "2021"
+}
